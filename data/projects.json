@@ -27,7 +27,7 @@
     "projectType": "LANDING PAGE",
     "projectName": "Almi (alt version)",
     "projectPreview": "/Landing_Page/Almi_Alt.jpeg",
-    "projectLink": "https://practical-snyder-d8195e.netlify.app/"
+    "projectLink": "https://almialtversion.netlify.app/"
   },
   {
     "projectType": "MULTI PAGE WEBSITE",
@@ -49,12 +49,6 @@
   },
   {
     "projectType": "GAME",
-    "projectName": "Quiz Spel",
-    "projectPreview": "/Game/Quiz_Spel.jpeg",
-    "projectLink": "https://ebyrdeu.github.io/quiz-spel/"
-  },
-  {
-    "projectType": "GAME",
     "projectName": "Battleship",
     "projectPreview": "/Game/Battleship.jpeg",
     "projectLink": "https://voluble-griffin-b1e2a3.netlify.app/"
@@ -69,7 +63,7 @@
     "projectType": "REACT SPA",
     "projectName": "Swapi",
     "projectPreview": "/React_SPA/swapi_API.jpeg",
-    "projectLink": "https://incandescent-crisp-220a71.netlify.app/"
+    "projectLink": "https://swapispamui.netlify.app/"
   },
   {
     "projectType": "REACT SPA",
