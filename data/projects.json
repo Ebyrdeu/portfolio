@@ -1,35 +1,5 @@
 [
   {
-    "projectType": "LANDING PAGE",
-    "projectName": "Model Company",
-    "projectPreview": "/Landing_Page/Model_Company.jpeg",
-    "projectLink": "https://ebyrdeu.github.io/model_company/"
-  },
-  {
-    "projectType": "LANDING PAGE",
-    "projectName": "Construction Company",
-    "projectPreview": "/Landing_Page/Construction_Company.jpeg",
-    "projectLink": "https://ebyrdeu.github.io/construction_company/"
-  },
-  {
-    "projectType": "LANDING PAGE",
-    "projectName": "Kung Food",
-    "projectPreview": "/Landing_Page/Kung_Food.jpeg",
-    "projectLink": "https://ebyrdeu.github.io/kung-food/"
-  },
-  {
-    "projectType": "LANDING PAGE",
-    "projectName": "Almi",
-    "projectPreview": "/Landing_Page/Almi.jpeg",
-    "projectLink": "https://ebyrdeu.github.io/almi/"
-  },
-  {
-    "projectType": "LANDING PAGE",
-    "projectName": "Almi (alt version)",
-    "projectPreview": "/Landing_Page/Almi_Alt.jpeg",
-    "projectLink": "https://almialtversion.netlify.app/"
-  },
-  {
     "projectType": "MULTI PAGE WEBSITE",
     "projectName": "Kekchik Ranobe",
     "projectPreview": "/Multi_Page_Website/Kekchik_Ranobe.jpeg",
@@ -61,14 +31,14 @@
   },
   {
     "projectType": "REACT SPA",
-    "projectName": "Swapi",
-    "projectPreview": "/React_SPA/swapi_API.jpeg",
-    "projectLink": "https://swapispamui.netlify.app/"
-  },
-  {
-    "projectType": "REACT SPA",
     "projectName": "React TMDB v2",
     "projectPreview": "/React_SPA/TMDB_SPA.jpg",
+    "projectLink": "https://silver-peony-2931d9.netlify.app/"
+  },
+  {
+    "projectType": "Next js",
+    "projectName": "Unga Bunga Kanji Up",
+    "projectPreview": "/React_SPA/ungabunga.png",
     "projectLink": "https://silver-peony-2931d9.netlify.app/"
   }
 ]
