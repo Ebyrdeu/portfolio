@@ -1,11 +1,5 @@
 [
   {
-    "projectType": "MULTI PAGE WEBSITE",
-    "projectName": "Kekchik Ranobe",
-    "projectPreview": "/Multi_Page_Website/Kekchik_Ranobe.jpeg",
-    "projectLink": "https://ebyrdeu.github.io/NovelWebSite/"
-  },
-  {
     "projectType": "GAME",
     "projectName": "Snake JS",
     "projectPreview": "/Game/snakeJS.jpeg",
@@ -18,25 +12,13 @@
     "projectLink": "https://ebyrdeu.github.io/Tetris/"
   },
   {
-    "projectType": "GAME",
-    "projectName": "Battleship",
-    "projectPreview": "/Game/Battleship.jpeg",
-    "projectLink": "https://voluble-griffin-b1e2a3.netlify.app/"
-  },
-  {
-    "projectType": "REACT SPA",
-    "projectName": "MarvelAPI",
-    "projectPreview": "/React_SPA/Marvel_API.jpeg",
-    "projectLink": "https://new-marve-spa.herokuapp.com/"
-  },
-  {
-    "projectType": "REACT SPA",
+    "projectType": "SPA",
     "projectName": "React TMDB v2",
     "projectPreview": "/React_SPA/TMDB_SPA.jpg",
     "projectLink": "https://silver-peony-2931d9.netlify.app/"
   },
   {
-    "projectType": "Next js",
+    "projectType": "Full Stack SPA",
     "projectName": "Unga Bunga Kanji Up",
     "projectPreview": "/React_SPA/ungabunga.png",
     "projectLink": "https://unga-bunga-kanji-app.vercel.app/"
